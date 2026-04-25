@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "nasin nanpa",
+    "previewText": "󱤑󱤧󱥌󱤉󱤶󱥩󱥞 · 󱦀󱥾󱤧󱦅󱤉󱦁",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/Flatkat/sitelen-pona-revenge-fonts/raw/refs/heads/main/fonts/nasin-nanpa/nasin-nanpa-stable-UCSUR.otf",
+        "ggsans-Bold": "https://github.com/Flatkat/sitelen-pona-revenge-fonts/raw/refs/heads/main/fonts/nasin-nanpa/nasin-nanpa-stable-UCSUR.otf",
+        "ggsans-BoldItalic": "https://github.com/Flatkat/sitelen-pona-revenge-fonts/raw/refs/heads/main/fonts/nasin-nanpa/nasin-nanpa-stable-UCSUR.otf",
+        "ggsans-ExtraBold": "link",
+        "ggsans-ExtraBoldItalic": "https://github.com/Flatkat/sitelen-pona-revenge-fonts/raw/refs/heads/main/fonts/nasin-nanpa/nasin-nanpa-stable-UCSUR.otf",
+        "ggsans-Medium": "https://github.com/Flatkat/sitelen-pona-revenge-fonts/raw/refs/heads/main/fonts/nasin-nanpa/nasin-nanpa-stable-UCSUR.otf",
+        "ggsans-MediumItalic": "https://github.com/Flatkat/sitelen-pona-revenge-fonts/raw/refs/heads/main/fonts/nasin-nanpa/nasin-nanpa-stable-UCSUR.otf",
+        "ggsans-Normal": "https://github.com/Flatkat/sitelen-pona-revenge-fonts/raw/refs/heads/main/fonts/nasin-nanpa/nasin-nanpa-stable-UCSUR.otf",
+        "ggsans-NormalItalic": "https://github.com/Flatkat/sitelen-pona-revenge-fonts/raw/refs/heads/main/fonts/nasin-nanpa/nasin-nanpa-stable-UCSUR.otf",
+        "ggsans-Semibold": "https://github.com/Flatkat/sitelen-pona-revenge-fonts/raw/refs/heads/main/fonts/nasin-nanpa/nasin-nanpa-stable-UCSUR.otf",
+        "ggsans-SemiboldItalic": "https://github.com/Flatkat/sitelen-pona-revenge-fonts/raw/refs/heads/main/fonts/nasin-nanpa/nasin-nanpa-stable-UCSUR.otf",
+        "NotoSans-Bold": "https://github.com/Flatkat/sitelen-pona-revenge-fonts/raw/refs/heads/main/fonts/nasin-nanpa/nasin-nanpa-stable-UCSUR.otf",
+        "NotoSans-ExtraBold": "https://github.com/Flatkat/sitelen-pona-revenge-fonts/raw/refs/heads/main/fonts/nasin-nanpa/nasin-nanpa-stable-UCSUR.otf",
+        "NotoSans-Medium": "https://github.com/Flatkat/sitelen-pona-revenge-fonts/raw/refs/heads/main/fonts/nasin-nanpa/nasin-nanpa-stable-UCSUR.otf",
+        "NotoSans-Normal": "https://github.com/Flatkat/sitelen-pona-revenge-fonts/raw/refs/heads/main/fonts/nasin-nanpa/nasin-nanpa-stable-UCSUR.otf",
+        "NotoSans-NormalItalic": "https://github.com/Flatkat/sitelen-pona-revenge-fonts/raw/refs/heads/main/fonts/nasin-nanpa/nasin-nanpa-stable-UCSUR.otf",
+        "NotoSans-Semibold": "https://github.com/Flatkat/sitelen-pona-revenge-fonts/raw/refs/heads/main/fonts/nasin-nanpa/nasin-nanpa-stable-UCSUR.otf",
+        "ggmono-Normal": "https://github.com/Flatkat/sitelen-pona-revenge-fonts/raw/refs/heads/main/fonts/nasin-nanpa/nasin-nanpa-stable-UCSUR.otf"
+    }
+}
