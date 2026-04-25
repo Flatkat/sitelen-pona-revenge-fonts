@@ -1,2 +1,2 @@
 # sitelen-pona-revenge-fonts
-sitelen pona fonts for Revenge and other Vendetta forks
+Sitelen pona UCSUR fonts for Revenge and other Vendetta forks
