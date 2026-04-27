@@ -6,7 +6,7 @@
         "ABCGintoNord-ExtraBold": "$link",
         "ggsans-Bold": "$link",
         "ggsans-BoldItalic": "$link",
-        "ggsans-ExtraBold": "link",
+        "ggsans-ExtraBold": "$link",
         "ggsans-ExtraBoldItalic": "$link",
         "ggsans-Medium": "$link",
         "ggsans-MediumItalic": "$link",
