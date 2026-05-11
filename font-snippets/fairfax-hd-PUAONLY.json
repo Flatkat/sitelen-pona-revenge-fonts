@@ -1,0 +1,25 @@
+{
+    "spec": 1,
+    "name": "FairfaxHD [PUA Only]",
+    "previewText": "󱤑󱤧󱥌󱤉󱤶󱥩󱥞 · 󱦀󱥾󱤧󱦅󱤉󱦁",
+    "main": {
+        "ABCGintoNord-ExtraBold": "https://github.com/Flatkat/sitelen-pona-revenge-fonts/raw/refs/heads/main/fonts/fairfax-hd/FairfaxHD-PUAonly.ttf",
+        "ggsans-Bold": "https://github.com/Flatkat/sitelen-pona-revenge-fonts/raw/refs/heads/main/fonts/fairfax-hd/FairfaxHD-PUAonly.ttf",
+        "ggsans-BoldItalic": "https://github.com/Flatkat/sitelen-pona-revenge-fonts/raw/refs/heads/main/fonts/fairfax-hd/FairfaxHD-PUAonly.ttf",
+        "ggsans-ExtraBold": "https://github.com/Flatkat/sitelen-pona-revenge-fonts/raw/refs/heads/main/fonts/fairfax-hd/FairfaxHD-PUAonly.ttf",
+        "ggsans-ExtraBoldItalic": "https://github.com/Flatkat/sitelen-pona-revenge-fonts/raw/refs/heads/main/fonts/fairfax-hd/FairfaxHD-PUAonly.ttf",
+        "ggsans-Medium": "https://github.com/Flatkat/sitelen-pona-revenge-fonts/raw/refs/heads/main/fonts/fairfax-hd/FairfaxHD-PUAonly.ttf",
+        "ggsans-MediumItalic": "https://github.com/Flatkat/sitelen-pona-revenge-fonts/raw/refs/heads/main/fonts/fairfax-hd/FairfaxHD-PUAonly.ttf",
+        "ggsans-Normal": "https://github.com/Flatkat/sitelen-pona-revenge-fonts/raw/refs/heads/main/fonts/fairfax-hd/FairfaxHD-PUAonly.ttf",
+        "ggsans-NormalItalic": "https://github.com/Flatkat/sitelen-pona-revenge-fonts/raw/refs/heads/main/fonts/fairfax-hd/FairfaxHD-PUAonly.ttf",
+        "ggsans-Semibold": "https://github.com/Flatkat/sitelen-pona-revenge-fonts/raw/refs/heads/main/fonts/fairfax-hd/FairfaxHD-PUAonly.ttf",
+        "ggsans-SemiboldItalic": "https://github.com/Flatkat/sitelen-pona-revenge-fonts/raw/refs/heads/main/fonts/fairfax-hd/FairfaxHD-PUAonly.ttf",
+        "NotoSans-Bold": "https://github.com/Flatkat/sitelen-pona-revenge-fonts/raw/refs/heads/main/fonts/fairfax-hd/FairfaxHD-PUAonly.ttf",
+        "NotoSans-ExtraBold": "https://github.com/Flatkat/sitelen-pona-revenge-fonts/raw/refs/heads/main/fonts/fairfax-hd/FairfaxHD-PUAonly.ttf",
+        "NotoSans-Medium": "https://github.com/Flatkat/sitelen-pona-revenge-fonts/raw/refs/heads/main/fonts/fairfax-hd/FairfaxHD-PUAonly.ttf",
+        "NotoSans-Normal": "https://github.com/Flatkat/sitelen-pona-revenge-fonts/raw/refs/heads/main/fonts/fairfax-hd/FairfaxHD-PUAonly.ttf",
+        "NotoSans-NormalItalic": "https://github.com/Flatkat/sitelen-pona-revenge-fonts/raw/refs/heads/main/fonts/fairfax-hd/FairfaxHD-PUAonly.ttf",
+        "NotoSans-Semibold": "https://github.com/Flatkat/sitelen-pona-revenge-fonts/raw/refs/heads/main/fonts/fairfax-hd/FairfaxHD-PUAonly.ttf",
+        "ggmono-Normal": "https://github.com/Flatkat/sitelen-pona-revenge-fonts/raw/refs/heads/main/fonts/fairfax-hd/FairfaxHD-PUAonly.ttf"
+    }
+}
