@@ -9,4 +9,6 @@ Sitelen pona UCSUR fonts for Revenge, Kettu and other Vendetta forks
 | 🐌 FairfaxHD [PUA Only] | ✅ | ![preview](img/fairfax-hd.png) | 🐌 [link](https://raw.githubusercontent.com/Flatkat/sitelen-pona-revenge-fonts/refs/heads/main/font-snippets/fairfax-hd.json) | - |
 | sitelen seli kiwen juniko | ❌ | ![preview](img/sitelen-seli-kiwen-juniko.png) | [link](https://raw.githubusercontent.com/Flatkat/sitelen-pona-revenge-fonts/refs/heads/main/font-snippets/sitelen-seli-kiwen-juniko.json) | - |
 
-\*PUA only indicates wether the font only affects characters in the Unicode Private User Area (the range UCSUR work in) without also changing the appearance of ASCII characters and others
+\*PUA only indicates wether ***the font only affects characters in the Unicode Private User Area*** (the range UCSUR work in) without also changing the appearance of ASCII characters and others
+
+🐌: Snail emoji indicates ***I have to update the font manually*** (usually due to it being hosted/modified by me or just not being hotlinkable). If i forget to update a font or it's  taking too long, open an issue and I'll update whenever I can!
